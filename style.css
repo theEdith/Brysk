@@ -694,7 +694,7 @@ footer .copyright{
  }
 
  #features{
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
  }
 
